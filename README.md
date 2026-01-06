@@ -34,12 +34,15 @@ Website ini menampilkan katalog produk parfum dan menyediakan fitur pemesanan on
 │ │ └── style.css
 │ ├── js/
 │ │ ├── script.js
-│ │ └── api.js
 │ └── images/
+│ ├── AENS LOGO.jpeg
+│ ├── AENS_LOGO-removebg-preview.png
+│ ├── BERRY.jpg
 │ ├── BLUE NIGHT.jpg
 │ ├── COOLMAN.jpg
 │ ├── LUCKY.jpg
 │ └── PINKFON.jpg
+│ ├── ROMANCE.jpg
 │
 ├── database/
 │ ├── koneksi.php

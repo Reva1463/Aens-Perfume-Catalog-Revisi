@@ -27,9 +27,7 @@ Website ini menampilkan katalog produk parfum dan menyediakan fitur pemesanan on
 ## 📂 Struktur Folder & File
 
 ```aens_parfume/
-│
-├── index.php
-├── proses_order.php
+
 │
 ├── assets/
 │ ├── css/
@@ -46,6 +44,11 @@ Website ini menampilkan katalog produk parfum dan menyediakan fitur pemesanan on
 ├── database/
 │ ├── koneksi.php
 │ └── aens_parfume.sql
+│
+├── index.php
+├── order.php
+├── proses_order.php
+├── test.php
 │
 └── README.md
 ```
@@ -87,15 +90,6 @@ Berisi JavaScript untuk:
 - Efek animasi scroll
 - Interaksi UI (hover, animasi produk)
 - Pengaturan tampilan modal popup
-
----
-
-### `assets/js/api.js`
-Berisi JavaScript untuk:
-- Membuka form pemesanan (modal)
-- Mengirim data pesanan menggunakan Fetch API
-- Menampilkan popup notifikasi pesanan berhasil
-- Mengatur data produk pada form pemesanan
 
 ---
 
